@@ -1,0 +1,20 @@
+/* Primary */
+$dark-blue: hsl(233, 26%, 24%);
+$lime-green: hsl(136, 65%, 51%);
+$bright-cyan: hsl(192, 70%, 51%);
+
+/* Neutral */
+$neutral-gray-blue-400: hsl(233, 8%, 62%);
+$neutral-gray-blue-200: hsl(220, 16%, 96%);
+
+/* Other */
+$gray-100: hsl(0, 0%, 98%);
+$white: hsl(0, 0%, 100%);
+
+/* Screen sizes */
+$desktop-width: 1440px;
+$mobile-width: 375px;
+
+/* Linear Gradients */
+$lime-green-cyan-gradient: linear-gradient(to right, $lime-green, $bright-cyan);
+$lime-green-cyan-gradient-reverse: linear-gradient(to right, $bright-cyan, $lime-green);
